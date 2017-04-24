@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>WangCai.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>com.cn.WangCai.notice.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>com.cn.wangcai.onti.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2A0B0B511DEF1B1C00D039DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A0B0B6A1DEF1B1C00D039DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2A0B0B751DEF1B1C00D039DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2AE9E68B1E9B6569002D9080</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2AE9E69C1E9B66F0002D9080</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
